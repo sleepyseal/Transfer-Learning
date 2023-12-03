@@ -1,4 +1,4 @@
-About a paper
+About a submitted paper
 ============================================================================
 
 ## Requirements
